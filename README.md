@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="left`">I am a Data Science student at Indiana University, graduating in December of 2024.</h3>
+<h3 align="left`">I am a Data Science student at Indiana University and an aspiring Data Scientist/Data Engineer.</h3>
 
 
 
